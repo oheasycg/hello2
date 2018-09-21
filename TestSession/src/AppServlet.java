@@ -21,7 +21,7 @@ public class AppServlet extends HttpServlet {
      */
     public AppServlet() {
         super();
-        // TODO Auto-generated constructor stub
+      
     }
 
 	/**
